@@ -16,7 +16,6 @@ def main():
     # Combine the two lists
     all_animals = domestic_animals + wild_animals
 
-    # Print all animals
     print("\nAll animals:")
     for animal in all_animals:
         print(animal)
