@@ -1,4 +1,5 @@
-# README
+# Assignments
+Welcome to the project assignments repository! This README file provides an overview of the assignments and their corresponding outputs.
 
 ## Table of Contents
 - [Assignment 1](#assignment-1)
