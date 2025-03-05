@@ -6,7 +6,6 @@ def calculate_subject_average(assignment, coursework, mid_term, end_of_term):
 def calculate_overall_average(physics_avg, chemistry_avg, math_avg):
     return (physics_avg + chemistry_avg + math_avg) / 3
 
-# Input marks for each subject
 print("Enter marks for Physics:")
 physics_assignment = float(input("Assignment: "))
 physics_coursework = float(input("Coursework: "))
@@ -33,7 +32,6 @@ math_avg = calculate_subject_average(math_assignment, math_coursework, math_mid_
 # Calculate overall average
 overall_avg = calculate_overall_average(physics_avg, chemistry_avg, math_avg)
 
-# Display results
 print("\nResults:")
 print(f"Physics Average: {physics_avg:.2f}")
 print(f"Chemistry Average: {chemistry_avg:.2f}")
