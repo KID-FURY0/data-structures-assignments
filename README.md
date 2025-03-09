@@ -1,5 +1,18 @@
 # Assignments
-Welcome to the project assignments repository! This README file provides an overview of the assignments and their corresponding outputs.
+Project assignments repository! This README file provides an overview of the assignments and their corresponding outputs.
+
+# Student Information
+
+This table contains details of four students, including their names, courses, and roll numbers.
+
+| **Name**             | **Course**               | **Roll Number** |
+|----------------------|--------------------------|-----------------|
+| Mayur Gujar          | D.I.T                    | 012240523       |
+| Lubega Mark          | D.I.T                    | 012240728       |
+| Dave Gorasiya        | Computer Science         | 012240257       |
+| Namutali John Isaac  | Computer Science         | 012240554       |
+
+---
 
 ## Table of Contents
 - [Assignment 1](#assignment-1)
