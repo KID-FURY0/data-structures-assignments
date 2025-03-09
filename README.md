@@ -7,8 +7,8 @@ This table contains details of four students, including their names, courses, an
 
 | **Name**             | **Course**               | **Roll Number** |
 |----------------------|--------------------------|-----------------|
-| Mayur Gujar          | D.I.T                    | 012240523       |
-| Lubega Mark          | D.I.T                    | 012240728       |
+| Mayur Gujar          | D.I.T                    | 012240728       |
+| Lubega Mark          | D.I.T                    | 012240523       |
 | Dave Gorasiya        | Computer Science         | 012240257       |
 | Namutali John Isaac  | Computer Science         | 012240554       |
 
