@@ -32,7 +32,6 @@ int main()
     return 0;
 }
 
-//function to delete element
 int delete_element(int arr[],int *size, int index){
     int i;
     for(i=index;i<= *size-1 ;i++)
@@ -41,7 +40,6 @@ int delete_element(int arr[],int *size, int index){
     } (*size)--;
 }
 
-//function to print array
 int print_array(int arr[], int size){
     int i;
     for (i=0; i<size;i++)
