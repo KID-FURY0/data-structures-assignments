@@ -13,7 +13,6 @@ def main():
         animal = input(f"Enter wild animal {i + 1}: ")
         wild_animals.append(animal)
 
-    # Combine the two lists
     all_animals = domestic_animals + wild_animals
 
     print("\nAll animals:")
