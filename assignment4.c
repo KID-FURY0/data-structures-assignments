@@ -3,7 +3,6 @@
 #define Max 10 //number of strings
 #define Len 20 //length of @string
 
-//Shift elements to the left to over-write the deleted one
 void deleteString(char arr[Max][Len], int *size, int index){
     for(int i=index;i<*size-1;i++) {
         for(int j=0;j<Len;j++){
