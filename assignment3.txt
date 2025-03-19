@@ -1,0 +1,36 @@
+Write an algorithm to swap two numbers  as entered by the user.
+
+	Algorithm: Swap Two Numbers
+1. Start
+
+2. Input: Prompt the user to enter the first number (num1).
+
+3. Input: Prompt the user to enter the second number (num2).
+
+4. Swap:
+	*Create a temporary variable temp.
+	*Assign the value of num1 to temp.
+	*Assign the value of num2 to num1.
+	*Assign the value of temp to num2.
+
+5. Output: Display the swapped values of num1 and num2.
+
+6. End.
+
+Write pseudo code for swapping 2 numbers.
+
+START
+    PRINT "Enter the first number: "
+    READ num1
+    PRINT "Enter the second number: "
+    READ num2
+
+    temp = num1
+    num1 = num2
+    num2 = temp
+
+    PRINT "After swapping:"
+    PRINT "First number: ", num1
+    PRINT "Second number: ", num2
+END
+
