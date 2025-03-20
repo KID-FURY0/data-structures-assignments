@@ -61,7 +61,6 @@ You can view the text file [here](assignment3.txt).
 ## Assignment 4
 
 ### Question
-Write a C program that accepts a group of N domestic animals and a group of X wild animals. Your program should print N + X animals after entering each group.
 
 ### Output
 Below is the output for Assignment 4:
@@ -73,8 +72,7 @@ Below is the output for Assignment 4:
 ## Assignment 5
 
 ### Question
-Write a C program that accepts a group of N domestic animals and a group of X wild animals. Your program should print N + X animals after entering each group.
-
+Write a C code showing how to merge two unsortated arrays and two sorted arrays.
 ### Output
 Below is the output for Assignment 5:
 
@@ -85,7 +83,7 @@ Below is the output for Assignment 5:
 ## Assignment 6
 
 ### Question
-Write a C program that accepts a group of N domestic animals and a group of X wild animals. Your program should print N + X animals after entering each group.
+Write a C code showing how to deleted an element from differnet possitoin from an array.
 
 ### Output
 Below is the output for Assignment 6:
